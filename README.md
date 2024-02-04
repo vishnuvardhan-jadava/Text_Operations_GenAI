@@ -5,7 +5,9 @@
 
 This project uses the `Gemini Pro` model from `Google GenerativeAI` to summarize or paraphrase text. The application is built with `Streamlit`.
 
-## Setup
+##
+
+Setup
 
 1. Clone the repository.
 2. Install the required libraries: `streamlit`, `google.generativeai`, and `python-dotenv`.
