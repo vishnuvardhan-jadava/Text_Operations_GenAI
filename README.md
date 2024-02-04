@@ -18,3 +18,9 @@ In the app, you can enter your text in the input field and choose to either `Sum
 
 - `get_response(prompt: str) -> str`: This function takes a prompt and returns a response from the `Gemini Pro` model.
 - `perform_action(action: str) -> None`: This function takes the user input and the operation that the user wants to perform on their input. It does not return anything, instead, it writes the output on the webpage.
+
+## Future work
+
+Future work involves adding more text features like `grammar checker`, `translator`, etc.
+
+
