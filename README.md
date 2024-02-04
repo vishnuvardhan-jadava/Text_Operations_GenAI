@@ -23,4 +23,11 @@ In the app, you can enter your text in the input field and choose to either `Sum
 
 Future work involves adding more text features like `grammar checker`, `translator`, etc.
 
+## input text
+<img width="293" alt="image" src="https://github.com/vishnuvardhan-jadava/Text_Operations_GenAI/assets/83878754/0369470c-e896-4a88-97b3-2007599f974c">
 
+## Summarize Response
+<img width="369" alt="image" src="https://github.com/vishnuvardhan-jadava/Text_Operations_GenAI/assets/83878754/fdd2a276-46c5-452a-a94c-7adde2638d3b">
+
+## Paraphrase response
+<img width="361" alt="image" src="https://github.com/vishnuvardhan-jadava/Text_Operations_GenAI/assets/83878754/63427bc6-14db-48bb-87b5-39846d615f89">
