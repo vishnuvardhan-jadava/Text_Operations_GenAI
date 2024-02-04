@@ -22,7 +22,7 @@ def get_response(prompt):
     return response
 
 st.set_page_config(page_title='text summarizer using gemini pro')
-st.header('Text Summarizer')
+st.header('Text Summarizer and Paraphraser')
 user_input = st.text_input('enter text')
 
 def perform_action(action):
