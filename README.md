@@ -1,7 +1,4 @@
-# Text_Operations_GenAI
-
-
-# Text Summarizer using Gemini Pro
+# Text Operations using GenAI(gemini pro)
 
 This project uses the `Gemini Pro` model from `Google GenerativeAI` to summarize or paraphrase text. The application is built with `Streamlit`.
 
