@@ -1,13 +1,11 @@
 # Text_Operations_GenAI
 
-```markdown
+
 # Text Summarizer using Gemini Pro
 
 This project uses the `Gemini Pro` model from `Google GenerativeAI` to summarize or paraphrase text. The application is built with `Streamlit`.
 
-##
-
-Setup
+## Setup
 
 1. Clone the repository.
 2. Install the required libraries: `streamlit`, `google.generativeai`, and `python-dotenv`.
@@ -23,4 +21,3 @@ In the app, you can enter your text in the input field and choose to either `Sum
 
 - `get_response(prompt: str) -> str`: This function takes a prompt and returns a response from the `Gemini Pro` model.
 - `perform_action(action: str) -> None`: This function takes the user input and the operation that the user wants to perform on their input. It does not return anything, instead, it writes the output on the webpage.
-```
